@@ -14,7 +14,7 @@ font_family      family="JetBrains Mono"
 bold_font        auto
 italic_font      auto
 bold_italic_font auto
-# END_KITTY_FONTS
+# END_KITTY_FONTSo
 
 font_size 15.0
 
@@ -22,7 +22,7 @@ hide_window_decorations yes
 
 cursor_shape block
 
-background_opacity 1
+background_opacity 0.9
 background_blur 45
 
 enable_preview_images yes
@@ -2603,7 +2603,9 @@ map cmd+4 goto_tab 4
 
 
 
+
+
 # BEGIN_KITTY_THEME
-# GitHub Dark
+# Tomorrow Night Blue
 include current-theme.conf
 # END_KITTY_THEME
