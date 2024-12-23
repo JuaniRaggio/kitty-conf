@@ -2606,6 +2606,6 @@ map cmd+4 goto_tab 4
 
 
 # BEGIN_KITTY_THEME
-# Atom One Light
+# Base2Tone Drawbridge Dark
 include current-theme.conf
 # END_KITTY_THEME
