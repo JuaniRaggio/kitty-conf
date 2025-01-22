@@ -16,14 +16,14 @@ italic_font      auto
 bold_italic_font auto
 # END_KITTY_FONTSo
 
-font_size 15.0
+font_size 14.5
 
 hide_window_decorations yes
 
 cursor_shape block
 
-background_opacity 0.9
-background_blur 45
+background_opacity 0.85
+background_blur 50
 
 enable_preview_images yes
 # force_ltr no
@@ -2606,6 +2606,6 @@ map cmd+4 goto_tab 4
 
 
 # BEGIN_KITTY_THEME
-# Base2Tone Drawbridge Dark
+# Catppuccin-Mocha
 include current-theme.conf
 # END_KITTY_THEME
